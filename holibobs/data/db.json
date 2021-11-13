@@ -1,0 +1,28 @@
+{
+  "trips": [
+    {
+      "title": "2 nights in Bognor Regis",
+      "price": "£1,000",
+      "id": "1",
+      "loc": "europe"
+    },
+    {
+      "title": "3 nights in Blackpool",
+      "price": "£700",
+      "id": "2",
+      "loc": "europe"
+    },
+    {
+      "title": "5 nights in Benidorm",
+      "price": "£399",
+      "id": "3",
+      "loc": "europe"
+    },
+    {
+      "title": "6 nights in New York",
+      "price": "£2999",
+      "id": "4",
+      "loc": "america"
+    }
+  ]
+}
